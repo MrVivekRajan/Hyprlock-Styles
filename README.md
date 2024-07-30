@@ -6,6 +6,7 @@ Hyprland's simple, yet multi-threaded and GPU-accelerated screen locking utility
 
 # Downloading 
 (1) For downloading all the Hyprlock styles at once simply clone this [Repository.](https://github.com/MrVivekRajan/Hyprlock-Styles) 
+
 (2) If you want to download indiviual or your desired style then simply download it from [Release-Section.](https://github.com/MrVivekRajan/Hyprlock-Styles/releases) 
 
 # Preview
