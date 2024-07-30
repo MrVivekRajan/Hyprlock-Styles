@@ -1,5 +1,7 @@
-# Preview
+# Hyprlock
+Hyprland's simple, yet multi-threaded and GPU-accelerated screen locking utility.
 
+# Preview
 Style-1
 ![Style-1](https://github.com/user-attachments/assets/50826322-b565-4a5a-af0b-70dda399fd1a)
 
