@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/MrVivekRajan/Hyprlock-Styles/stargazers"><img src="https://img.shields.io/github/stars/MrVivekRajan/Hyprlock-Styles?colorA=1d2021&colorB=458588&style=for-the-badge"></a>
-     <a href="https://github.com/MrVivekRajan/Hyprlock-Styles/contributors"><img src="https://img.shields.io/github/contributors/MrVivekRajan/Hyprlock-Styles?colorA=32302f&colorB=8651BB&style=for-the-badge"></a>
-     <a href="https://github.com/MrVivekRajan/Hyprlock-Styles/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Hyprlock-Styles?colorA=32302f&colorB=eebd35&style=for-the-badge"></a>
+     <a href="https://github.com/MrVivekRajan/Hyprlock-Styles/contributors"><img src="https://img.shields.io/github/contributors/MrVivekRajan/Hyprlock-Styles?colorA=1d2021&colorB=8651BB&style=for-the-badge"></a>
+     <a href="https://github.com/MrVivekRajan/Hyprlock-Styles/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Hyprlock-Styles?colorA=1d2021&colorB=eebd35&style=for-the-badge"></a>
 </p>
 
 # Hyprlock
