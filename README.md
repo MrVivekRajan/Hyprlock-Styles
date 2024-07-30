@@ -4,10 +4,9 @@ Hyprland's simple, yet multi-threaded and GPU-accelerated screen locking utility
 # Installation 
 (1) For Hyprlock installation just go through the [Hyrlock Repository.](https://github.com/hyprwm/hyprlock)
 
-(2) For installation of Hyprlock styles made by me clone this [Repository](https://github.com/MrVivekRajan/Hyprlock-Styles) if you want all the styles 
-
-else 
-if you want to download individual styles just download it from [Release-Section.](https://github.com/MrVivekRajan/Hyprlock-Styles/releases) 
+# Downloading 
+(1) For downloading all the Hyprlock styles at once simply clone this [Repository.](https://github.com/MrVivekRajan/Hyprlock-Styles) 
+(2) If you want to download indiviual or your desired style then simply download it from [Release-Section.](https://github.com/MrVivekRajan/Hyprlock-Styles/releases) 
 
 # Preview
 Style-1
