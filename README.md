@@ -25,6 +25,7 @@ Style-8
 ![Style-8](https://github.com/user-attachments/assets/67521c55-3223-4b07-9722-6a0f5b2f6326)
 
 Style-9
-
+![Style-9](https://github.com/user-attachments/assets/e77f7ba1-400a-4abf-b817-d9d7a24ad1ae)
 
 Style-10
+![Style-10](https://github.com/user-attachments/assets/acc07fd5-7362-4bfa-9245-b1599ddf6ea0)
