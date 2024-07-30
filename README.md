@@ -14,3 +14,17 @@ Style-4
 
 Style-5
 ![Style-5](https://github.com/user-attachments/assets/5399df92-bea7-47de-8f75-b890ead7e55f)
+
+Style-6
+![Style-6](https://github.com/user-attachments/assets/c56bc90a-cf07-4535-ba2f-fc556ea9a804)
+
+Style-7
+![Style-7](https://github.com/user-attachments/assets/291fbf79-0678-4b62-b454-613589911a17)
+
+Style-8
+![Style-8](https://github.com/user-attachments/assets/67521c55-3223-4b07-9722-6a0f5b2f6326)
+
+Style-9
+
+
+Style-10
