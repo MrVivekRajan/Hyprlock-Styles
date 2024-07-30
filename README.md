@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://github.com/MrVivekRajan/Hyprlock-Styles/stargazers"><img src="https://img.shields.io/github/stars/MrVivekRajan/Hyprlock-Styles?colorA=32302f&colorB=458588&style=for-the-badge"></a>
+     <a href="https://github.com/MrVivekRajan/Hyprlock-Styles/contributors"><img src="https://img.shields.io/github/contributors/MrVivekRajan/Hyprlock-Styles?colorA=32302f&colorB=8651BB&style=for-the-badge"></a>
+     <a href="https://github.com/MrVivekRajan/Hyprlock-Styles/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Hyprlock-Styles?colorA=32302f&colorB=eebd35&style=for-the-badge"></a>
+</p>
+
 # Hyprlock
 Hyprland's simple, yet multi-threaded and GPU-accelerated screen locking utility.
 
