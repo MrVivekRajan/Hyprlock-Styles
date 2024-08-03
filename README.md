@@ -26,7 +26,7 @@ Style-3
 ![Style-3](https://github.com/user-attachments/assets/d770c87c-dd9a-4bd4-8736-7f9855c23155)
 
 Style-4
-![Style-4](https://github.com/user-attachments/assets/f4cbeea2-86b3-43fd-b13f-d4e862200666)
+![Style-4](https://github.com/user-attachments/assets/9224e019-39cd-48d2-95f1-a239346f68f6)
 
 Style-5
 ![Style-5](https://github.com/user-attachments/assets/5399df92-bea7-47de-8f75-b890ead7e55f)
